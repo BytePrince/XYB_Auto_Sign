@@ -1,0 +1,18 @@
+{
+  "token":{
+    "openId":"填写你的openId",
+    "unionId":"填写你的unionId"
+  },
+  "location":{
+    "country":"中国",
+    "province":"XX省",
+    "city":"XX市",
+    "adcode":"城市编码",
+    "address":"XX街道XX路XX号"
+  },
+  "reason": "",
+  "DingDingtoken":"",
+  "DingDingsecret":""
+}
+
+
